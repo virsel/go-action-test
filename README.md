@@ -1,1 +1,2 @@
-# go-action-test
+# actions-with-go
+Using GitHub actions with Go
